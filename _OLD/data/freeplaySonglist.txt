@@ -1,0 +1,4 @@
+Tutorial:gf:0
+Psychic:flavio:1
+DarkMagic:flavio:1
+Breakdown:flavioPissed:1

@@ -1,0 +1,62 @@
+{
+  "name": "Flavio (Pissed)",
+  "asset": "characters/flavioPissed",
+  "barColor": "#371250",
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "Flav_Down",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "Flav_Left",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "Flav_Right",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "Flav_Up",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "Flav_Down",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWN-alt",
+      "prefix": "Screm",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT-alt",
+      "prefix": "Screm",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUP-alt",
+      "prefix": "Screm",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT-alt",
+      "prefix": "Screm",
+      "looped": true,
+      "offsets": [0, 0]
+    }
+  ]
+}

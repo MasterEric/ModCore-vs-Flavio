@@ -1,0 +1,5 @@
+{
+  "offset": 0,
+  // Song names default to title case but `name` can be used for special cases.
+  "name": "Dark Magic"
+}

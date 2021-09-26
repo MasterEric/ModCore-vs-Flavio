@@ -1,0 +1,38 @@
+{
+  "name": "Flavio",
+  "asset": "characters/flavio",
+  "barColor": "#371250",
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "flavio_idle",
+      "looped": true,
+      "offsets": [0, 5]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "left",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "right",
+      "looped": true,
+      "offsets": [-15, 0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "up",
+      "looped": true,
+      "offsets": [-30, 25]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "down",
+      "looped": true,
+      "offsets": [-30, -56]
+    }
+  ]
+}
